@@ -13,7 +13,7 @@ Keywords : pricing kernel, risk neutral density, physical density, kernel regres
 
 Author : Roman Lykhnenko
 
-Submitted : Roman Lykhnenko
+Submitted : 21.11.2016
 
 Datafile : 'C_2012.csv, timeSeriesDaxVdax.csv, locLinBW.RData'
 
