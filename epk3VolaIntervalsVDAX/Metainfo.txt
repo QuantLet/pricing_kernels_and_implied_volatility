@@ -17,7 +17,7 @@ See also : epk3VolaIntervalsVDAX1m, epk3VolaIntervalsVDAX2m, epk3VolaIntervalsVD
 
 Author : Roman Lykhnenko
 
-Submitted : Roman Lykhnenko
+Submitted : 21.11.2016
 
 Datafile : 'C_2012.csv, timeSeriesDaxVdax.csv, locLinBW.RData'
 
