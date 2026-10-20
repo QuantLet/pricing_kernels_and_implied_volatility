@@ -15,7 +15,7 @@ Keywords: kernel regression, bandwidth, cross-validation, multistarting,  local 
 
 Author: Roman Lykhnenko
 
-Submitted: Roman Lykhnenko
+Submitted: 21.11.2016
 
 Datafile: C_2012.csv
 
