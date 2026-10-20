@@ -9,13 +9,13 @@ Name of QuantLet: epkLocLinRndLocLinPD
 
 Published in: pricing_kernels_and_implied_volatility
 
-Description: Estimates and plots (yearly) empirical pricing kernels (EPK), risk neutral densities (RND) and physical densities (PD) of DAX
+Description: Estimates and plots (yearly) empirical pricing kernels (EPK), risk neutral densities (RND) and physical densities (PD) of DAX 30 index return conditional on 20% (red curve), 40% (green curve) and 60% (blue curve) quantiles of volatility index VDAX-NEW (current year), and time to maturity 1 month. Local linear kernel regression is used for estimation of the conditional risk neutral density and local linear kernel regression is used for estimation of conditional physical density. Moreover, 95% confidence intervals have been calculated for PK, RND and PD conditioned by 40% quantile of VDAX-NEW and time to maturity 1 month. All results are shown on a continuously compounded 1-month period returns scale.
 
 Keywords: pricing kernel, risk neutral density, physical density, kernel regression, volatility, dax, vdax, kernel, regression, risk, risk aversion
 
 Author: Roman Lykhnenko
 
-Submitted: Roman Lykhnenko
+Submitted: 21.11.2016
 
 Datafile: C_2012.csv, timeSeriesDaxVdax.csv, locLinBW.RData
 
@@ -33,7 +33,7 @@ Output:
 - epkLocLinRndLocLinPD_RND_2012.png        : Plot of estimated risk neutral densities conditional on 20% (red curve), 40% (green curve) and 60% (blue curve) quantiles of volatility index VDAX-NEW
 - epkLocLinRndLocLinPD_RND_CI_2012.png     : Plot of estimated risk neutral density conditioned by 40% quantile of VDAX-NEW and time to maturity 1 month with 95% confidence intervals
 
-Example: The estimated conditional pricing kernels, risk neutral and physical densities for year
+Example: The estimated conditional pricing kernels, risk neutral and physical densities for year 2012. For more details see Description.
 
 ```
 <div align="center">
