@@ -9,7 +9,7 @@ Name of QuantLet: epk3VolaIntervalsVDAX2m
 
 Published in: pricing_kernels_and_implied_volatility
 
-Description: Estimates and plots (yearly) empirical pricing kernels (EPK), risk neutral densities (RND) and physical densities (PD) of
+Description: Estimates and plots (yearly) empirical pricing kernels (EPK), risk neutral densities (RND) and physical densities (PD) of DAX 30 index return conditional on time to maturity 2 months and different levels of VDAX-NEW-Subindex 2 (20 equally spaced numbers from 5% to 95% quantile of VDAX-NEW-Subindex 2 in a given year). Local linear kernel regression is used for estimation of the conditional risk neutral density and local constant kernel regression is used for estimation of conditional physical density. EPK is obtained as a ratio of RND and PD. The panels on the right-hand side of figures depict EPK, RND, PD conditional on 20%, 50% and 80% quantiles of VDAX-NEW-Subindex 2 with 95% confidence intervals. Colors from red to blue correspond to increasing values of volatility within each interval. All results are shown on a continuously compounded 2-months period returns scale.
 
 Keywords: pricing kernel, risk neutral density, physical density, kernel regression, volatility, dax, vdax, kernel, regression, risk, risk aversion
 
@@ -17,7 +17,7 @@ See also: epk3VolaIntervalsVDAX, epk3VolaIntervalsVDAX1m, epk3VolaIntervalsVDAX3
 
 Author: Roman Lykhnenko
 
-Submitted: Roman Lykhnenko
+Submitted: 21.11.2016
 
 Datafile: C_2012vdax2m.csv, timeSeriesDaxVdax2m.csv, locLinBWvdax2m.RData
 
